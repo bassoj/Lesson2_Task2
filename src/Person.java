@@ -1,5 +1,3 @@
-package ua.bohutskiy_v;
-
 import java.util.*;
 
 class Person {
@@ -53,7 +51,7 @@ class Person {
 
     @Override
     public String toString() {
-        return "ua.bohutskiy_v.Person{" +
+        return "Person{" +
                 "name='" + name + '\'' +
                 ", surname='" + surname + '\'' +
                 ", phones=" + phones +

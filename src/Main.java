@@ -1,5 +1,3 @@
-package ua.bohutskiy_v;
-
 import com.google.gson.Gson;
 import com.google.gson.stream.JsonReader;
 

@@ -1,5 +1,3 @@
-package ua.bohutskiy_v;
-
 class Addresses {
     private String country;
     private String city;
@@ -31,7 +29,7 @@ class Addresses {
 
     @Override
     public String toString() {
-        return "ua.bohutskiy_v.Addresses{" +
+        return "Addresses{" +
                 "country='" + country + '\'' +
                 ", city='" + city + '\'' +
                 ", street='" + street + '\'' +
