@@ -1,4 +1,4 @@
-class Addresses {
+public class Addresses {
     private String country;
     private String city;
     private String street;
